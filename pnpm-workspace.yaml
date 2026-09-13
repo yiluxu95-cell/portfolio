@@ -1,0 +1,4 @@
+# This static site does not require native dependency build scripts.
+allowBuilds:
+  sharp: false
+  unrs-resolver: false
